@@ -1,0 +1,15 @@
+.wrapper {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+button {
+    margin: 10px;
+    background-color: aqua;
+    border-radius: 15px;
+}
+
+img {
+    max-width: 50vh;
+}
