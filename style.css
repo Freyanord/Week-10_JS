@@ -2,6 +2,10 @@
     display: flex;
     align-items: center;
     justify-content: center;
+    border: 5px solid green;
+    /* border-radius: 15px; */
+    width: 40%;
+    margin: 10px auto;
 }
 
 button {
@@ -12,4 +16,5 @@ button {
 
 img {
     max-width: 50vh;
+    margin: 10px;
 }
