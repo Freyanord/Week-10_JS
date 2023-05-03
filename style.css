@@ -3,7 +3,7 @@
     align-items: center;
     justify-content: center;
     border: 5px solid green;
-    /* border-radius: 15px; */
+    border-radius: 15px;
     width: 40%;
     margin: 10px auto;
 }
@@ -12,6 +12,10 @@ button {
     margin: 10px;
     background-color: aqua;
     border-radius: 15px;
+}
+
+button:hover {
+    background-color: cornflowerblue;
 }
 
 img {
